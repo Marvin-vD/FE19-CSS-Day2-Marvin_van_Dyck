@@ -40,4 +40,11 @@ img {
   left:0px;
   top: 180px;
 }
+#mouth1:hover{
+  position: absolute;
+  width:60px;
+  height: 60px;
+  left:175px;
+  top: 350px;
+}
 
