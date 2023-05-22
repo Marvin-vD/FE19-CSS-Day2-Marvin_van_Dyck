@@ -1,0 +1,41 @@
+.container{
+    width: 800px;
+    align-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+p{
+    color: #070707;
+}
+li{
+    color: #070707;
+    padding-top: 5px;
+    padding-bottom: 5bx;
+}
+.hero{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+}
+header{
+    text-align: center;
+}
+h1{
+    color:#DB0038;
+}
+h2{
+    color: #3998A3;
+}
+h3{
+    color:#474747;
+}
+.rating{
+    color:#F4B400;
+    size: 25px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}

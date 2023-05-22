@@ -1,0 +1,43 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+#eyes2{
+  position: absolute;
+  width:150px;
+  left:130px;
+  top: 200px;
+}
+#nose2{
+  position: absolute;
+  width:80px;
+  left:165px;
+  top: 250px;
+}
+#mouth1{
+  position: absolute;
+  width:80px;
+  left:165px;
+  top: 350px;
+}
+#hair2{
+  position: absolute;
+  width:300px;
+  left:50px;
+  top: 80px;
+}
+#hat{
+  position: absolute;
+  width:310px;
+  left:52px;
+  top: -30px;
+}
+#ears2{
+  position: absolute;
+  width:400px;
+  left:0px;
+  top: 180px;
+}
+
